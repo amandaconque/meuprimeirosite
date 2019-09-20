@@ -207,3 +207,10 @@ header#cabecalho h2{
    footer#rodape{
        text-align: center;
    }
+   video#filme02{
+    display: block;
+    position: relative  ;
+    left: 5px;
+    top: 5px;
+    width: 345px;
+   }
